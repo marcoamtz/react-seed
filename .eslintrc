@@ -44,6 +44,10 @@
     "eol-last": 0,
     "no-unused-vars": 0,
     "no-underscore-dangle": 0,
+    "comma-dangle": [
+      1,
+      "always-multiline"
+    ],
     "no-alert": 0,
     "no-lone-blocks": 0,
     "jsx-quotes": 1,
